@@ -25,8 +25,8 @@ Um simples jogo de adivinhação onde o jogador tenta descobrir um número aleat
 - Caso contrário, o jogo revela o número sorteado.
 
 ## 📝 Exemplo de jogo
-## Jogo da Adivinhação
-## Escolha um número entre 0 e 100.
+### Jogo da Adivinhação
+### Escolha um número entre 0 e 100.
 - 50
 - O número sorteado é menor.
 - 25
